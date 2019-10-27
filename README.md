@@ -5,7 +5,7 @@
 <summary>1、JS篇</summary>
   
 1.1 [对象的创建和继承](https://github.com/IamHuadong/blogs/issues/1)  
-1.2 [对象的浅拷贝和深拷贝](https://github.com/IamHuadong/blogs/issues/2)
-1.3 [容易混淆的String和Array方法](https://github.com/IamHuadong/blogs/issues/3)
+1.2 [对象的浅拷贝和深拷贝](https://github.com/IamHuadong/blogs/issues/2)  
+1.3 [容易混淆的String和Array方法](https://github.com/IamHuadong/blogs/issues/3)  
 </details>
 
