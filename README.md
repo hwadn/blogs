@@ -7,4 +7,9 @@
 1.2 [对象的浅拷贝和深拷贝](https://github.com/IamHuadong/blogs/issues/2)  
 1.3 [new的过程--手写new](https://github.com/IamHuadong/blogs/issues/3)  
 </details>
-
+<details>
+<summary>2、数据结构与算法篇</summary>
+  
+2.1 [栈和队列](https://github.com/IamHuadong/blogs/issues/1)  
+2.2 [链表](https://github.com/IamHuadong/blogs/issues/1)  
+</details>
