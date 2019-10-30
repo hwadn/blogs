@@ -10,6 +10,6 @@
 <details>
 <summary>2、数据结构与算法篇</summary>
   
-2.1 [栈和队列](https://github.com/IamHuadong/blogs/issues/1)  
-2.2 [链表](https://github.com/IamHuadong/blogs/issues/1)  
+2.1 [栈和队列](https://github.com/IamHuadong/blogs/issues/4)  
+2.2 [链表](https://github.com/IamHuadong/blogs/issues/5)  
 </details>
