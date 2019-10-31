@@ -12,6 +12,7 @@
   
 2.1 [栈和队列](https://github.com/IamHuadong/blogs/issues/4)  
 2.2 [链表](https://github.com/IamHuadong/blogs/issues/5)  
+2.2 [冒泡排序](https://github.com/IamHuadong/blogs/issues/6)  
 </details>
 <details>
 <summary>3、计算机网络篇</summary>
