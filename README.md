@@ -13,7 +13,7 @@
 <details>
 <summary>2、数据结构与算法篇</summary>
   
-2.1 [栈和队列](https://github.com/IamHuadong/blogs/issues/4)  
+2.1 [栈和队列——2个栈实现队列](https://github.com/IamHuadong/blogs/issues/4)  
 2.2 [链表————js实现链表类及其方法](https://github.com/IamHuadong/blogs/issues/5)  
 2.3 [冒泡排序](https://github.com/IamHuadong/blogs/issues/6)  
 2.4 [快速排序](https://github.com/IamHuadong/blogs/issues/7)  
