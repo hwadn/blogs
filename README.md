@@ -17,7 +17,7 @@
 2.2 [链表——js实现链表类及其方法](https://github.com/IamHuadong/blogs/issues/5)  
 2.3 排序算法——[冒泡排序](https://github.com/IamHuadong/blogs/issues/6) | [归并排序](https://github.com/IamHuadong/blogs/issues/11) | [快速排序](https://github.com/IamHuadong/blogs/issues/7)  
 2.4 [二叉树、堆的一些概念](https://github.com/IamHuadong/blogs/issues/12)  
-2.5 [二叉树之前、中、后续遍历](https://github.com/IamHuadong/blogs/issues/13)  
+2.5 [二叉树类的创建及前、中、后续遍历](https://github.com/IamHuadong/blogs/issues/13)  
 </details>
 <details>
 <summary>3、计算机网络篇</summary>
