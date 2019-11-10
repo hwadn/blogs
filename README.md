@@ -29,8 +29,8 @@
 </details>
 
 ## 参考文献
-- 《JavaScript高级程序设计》  
-- 《你不知道的JavaScript》 
-- 《学习JavaScript数据结构与算法》  
-- 《计算机网络》  
-- 各种在线博客和官网文档
+- *《JavaScript高级程序设计》*  
+- *《你不知道的JavaScript》* 
+- *《学习JavaScript数据结构与算法》*  
+- *《计算机网络》*  
+- *各种在线博客和官网文档*
