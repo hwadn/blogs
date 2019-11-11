@@ -23,8 +23,8 @@
 <summary>3、计算机网络篇</summary>
   
 3.1 [计算机网络的体系结构及其各层的作用](https://github.com/IamHuadong/blogs/issues/14)  
-3.2 [网络层的相关知识](https://github.com/IamHuadong/blogs/issues/15)  
-3.3 [运输层的相关知识](https://github.com/IamHuadong/blogs/issues/16) 
+3.2 [网络层要点](https://github.com/IamHuadong/blogs/issues/15)  
+3.3 [运输层要点](https://github.com/IamHuadong/blogs/issues/16) 
 </details>
 <details>
 <summary>4、前端框架篇--Vue</summary>
