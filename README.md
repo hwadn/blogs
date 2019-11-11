@@ -27,7 +27,7 @@
 3.3 [运输层要点](https://github.com/IamHuadong/blogs/issues/16)  
 3.4 [应用层要点](https://github.com/IamHuadong/blogs/issues/17)  
 3.5 [应用层协议——HTTP1.0、1.1及2.0](https://github.com/IamHuadong/blogs/issues/18)  
-3.6 [密码体制及HTTPS](https://github.com/IamHuadong/blogs/issues/19)  
+3.6 [密码体制及应用——HTTPS](https://github.com/IamHuadong/blogs/issues/19)  
 </details>
 <details>
 <summary>4、前端框架篇--Vue</summary>
