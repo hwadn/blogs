@@ -30,7 +30,11 @@
 3.6 [密码体制及应用——HTTPS](https://github.com/IamHuadong/blogs/issues/19)  
 </details>
 <details>
-<summary>4、前端框架篇--Vue</summary>
+<summary>4、CSS篇--Vue</summary>
+   
+</details>
+<details>
+<summary>5、前端框架篇--Vue</summary>
    
 </details>
 
@@ -39,4 +43,5 @@
 - *《你不知道的JavaScript》* 
 - *《学习JavaScript数据结构与算法》*  
 - *《计算机网络》*  
+- *《CSS权威指南》* 
 - *各种在线博客和官网文档*
