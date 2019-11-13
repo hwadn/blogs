@@ -56,6 +56,10 @@
 <summary>6、前端框架篇--Vue</summary>
    
 </details>
+<details>
+<summary>7、网站性能优化篇</summary>
+   
+</details>
 
 ## 参考文献
 - *《JavaScript高级程序设计》*  
