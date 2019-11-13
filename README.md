@@ -43,13 +43,14 @@
    
 5.1 [浏览器原理——重排、重绘](https://github.com/IamHuadong/blogs/issues/25)  
 5.2 [浏览器检测、兼容](https://github.com/IamHuadong/blogs/issues/25)  
-5.3 [JS执行流程——事件循环Event Loop](https://github.com/IamHuadong/blogs/issues/25)  
-5.4 [DOM事件委托（事件代理）](https://github.com/IamHuadong/blogs/issues/25)  
-5.5 [Ajax原理、同源策略及跨域](https://github.com/IamHuadong/blogs/issues/25)  
-5.6 [服务端推送Comet和Web Sockets——长轮询和短轮询](https://github.com/IamHuadong/blogs/issues/25)  
-5.7 [Web数据存储——sessionStorage和localStorage](https://github.com/IamHuadong/blogs/issues/25)  
-5.8 [用户身份识别——cookie、session和token](https://github.com/IamHuadong/blogs/issues/25)  
-5.9 [Web安全防范——XSS与CSRF](https://github.com/IamHuadong/blogs/issues/25)  
+5.3 [浏览器缓存——强缓存和协商缓存](https://github.com/IamHuadong/blogs/issues/25)  
+5. [JS执行流程——事件循环Event Loop](https://github.com/IamHuadong/blogs/issues/25)  
+5. [DOM事件委托（事件代理）](https://github.com/IamHuadong/blogs/issues/25)  
+5. [Ajax原理、同源策略及跨域](https://github.com/IamHuadong/blogs/issues/25)  
+5. [服务端推送Comet和Web Sockets——长轮询和短轮询](https://github.com/IamHuadong/blogs/issues/25)  
+5. [Web数据存储——sessionStorage和localStorage](https://github.com/IamHuadong/blogs/issues/25)  
+5. [用户身份识别——cookie、session和token](https://github.com/IamHuadong/blogs/issues/25)  
+5. [Web安全防范——XSS与CSRF](https://github.com/IamHuadong/blogs/issues/25)  
 </details>
 <details>
 <summary>6、前端框架篇--Vue</summary>
