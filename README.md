@@ -39,7 +39,7 @@
 4.6 [CSS新特性](https://github.com/IamHuadong/blogs/issues/25)  
 </details>
 <details>
-<summary>5、开发应用篇（交叉知识点）</summary>
+<summary>5、开发应用篇（交叉知识点）——计划整理中</summary>
    
 5.1 [浏览器原理——重排、重绘](https://github.com/IamHuadong/blogs/issues/25)  
 5.2 [浏览器检测、兼容](https://github.com/IamHuadong/blogs/issues/25)  
