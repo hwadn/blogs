@@ -8,6 +8,7 @@
 1.4 [对闭包的理解（垃圾回收机制）与应用（防抖、节流）](https://github.com/IamHuadong/blogs/issues/8)   
 1.5 [js的异步回调、Promise及其手写](https://github.com/IamHuadong/blogs/issues/9)  
 1.6 [this的指向及其4种绑定规则 ](https://github.com/IamHuadong/blogs/issues/10) 
+1.7 [JS执行原理——事件循环Event Loop](https://github.com/IamHuadong/blogs/issues/25)  
 </details>
 <details>
 <summary>2、数据结构与算法篇</summary>
@@ -29,7 +30,7 @@
 3.6 [密码体制及应用——HTTPS](https://github.com/IamHuadong/blogs/issues/19)  
 </details>
 <details>
-<summary>4、HTML(5)/CSS(3)篇</summary>
+<summary>4、HTML(5)、CSS(3)和DOM篇</summary>
   
 4.1 [HTML元素类型+CSS样式关联方式](https://github.com/IamHuadong/blogs/issues/20)  
 4.2 [选择器及样式优先级](https://github.com/IamHuadong/blogs/issues/21)  
@@ -37,31 +38,35 @@
 4.4 [display: none, visibility: hidden 和 opacity: 0](https://github.com/IamHuadong/blogs/issues/23)  
 4.5 [HTML5新特性](https://github.com/IamHuadong/blogs/issues/24)  
 4.6 [CSS新特性](https://github.com/IamHuadong/blogs/issues/25)  
+4.7 [DOM事件委托（事件代理）](https://github.com/IamHuadong/blogs/issues/25)  
 </details>
 <details>
-<summary>5、开发应用篇（交叉知识点）——计划整理中</summary>
+<summary>5、浏览器篇——计划整理中</summary>
    
-5.1 [浏览器原理——重排、重绘](https://github.com/IamHuadong/blogs/issues/25)  
+5.1 [浏览器工作原理——重排、重绘](https://github.com/IamHuadong/blogs/issues/25)  
 5.2 [浏览器检测、兼容](https://github.com/IamHuadong/blogs/issues/25)  
 5.3 [浏览器缓存——强缓存和协商缓存](https://github.com/IamHuadong/blogs/issues/25)  
-5. [浏览器内泄漏](https://github.com/IamHuadong/blogs/issues/25)  
-5. [JS执行流程——事件循环Event Loop](https://github.com/IamHuadong/blogs/issues/25)  
-5. [DOM事件委托（事件代理）](https://github.com/IamHuadong/blogs/issues/25)  
-5. [Ajax原理、同源策略及跨域（iframe）](https://github.com/IamHuadong/blogs/issues/25)  
-5. [服务端推送Comet和Web Sockets——长轮询和短轮询](https://github.com/IamHuadong/blogs/issues/25)  
-5. [Web数据存储——sessionStorage和localStorage](https://github.com/IamHuadong/blogs/issues/25)  
-5. [用户身份识别——cookie、session和token](https://github.com/IamHuadong/blogs/issues/25)  
-5. [Web安全防范——XSS与CSRF](https://github.com/IamHuadong/blogs/issues/25)  
-5. [用户身份识别——cookie、session和token](https://github.com/IamHuadong/blogs/issues/25)  
-5. [图片的懒加载和预加载](https://github.com/IamHuadong/blogs/issues/25)  
-5. [前后端交互（restful）](https://github.com/IamHuadong/blogs/issues/25)  
+5.4 [浏览器内存泄漏](https://github.com/IamHuadong/blogs/issues/25)  
+5.5 [浏览器输入url过程](https://github.com/IamHuadong/blogs/issues/25)  
 </details>
 <details>
-<summary>6、前端框架篇--Vue</summary>
+<summary>6、开发应用篇（网页通信及跨域）——计划中</summary>
+   
+. [图片的懒加载和预加载](https://github.com/IamHuadong/blogs/issues/25)  
+. [Ajax原理、同源策略及跨域（iframe）](https://github.com/IamHuadong/blogs/issues/25)  
+. [服务端推送Comet和Web Sockets——长轮询和短轮询](https://github.com/IamHuadong/blogs/issues/25)  
+. [Web数据存储——sessionStorage和localStorage](https://github.com/IamHuadong/blogs/issues/25) 
+. [页面登录——MySQL+node.js](https://github.com/IamHuadong/blogs/issues/25)  
+. [用户身份识别——cookie、session和token](https://github.com/IamHuadong/blogs/issues/25)  
+. [Web安全防范——XSS与CSRF](https://github.com/IamHuadong/blogs/issues/25)  
+. [前后端交互（restful）](https://github.com/IamHuadong/blogs/issues/25)  
+</details>
+<details>
+<summary>7、前端框架篇--Vue——计划中</summary>
    
 </details>
 <details>
-<summary>7、网站性能优化篇</summary>
+<summary>8、网站性能优化篇——计划中</summary>
    
 </details>
 
