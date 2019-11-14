@@ -8,7 +8,6 @@
 1.4 [对闭包的理解（垃圾回收机制）与应用（防抖、节流）](https://github.com/IamHuadong/blogs/issues/8)   
 1.5 [js的异步回调、Promise及其手写](https://github.com/IamHuadong/blogs/issues/9)  
 1.6 [this的指向及其4种绑定规则 ](https://github.com/IamHuadong/blogs/issues/10)  
-1.7 [JS执行原理——事件循环Event Loop](https://github.com/IamHuadong/blogs/issues/26)  
 </details>
 <details>
 <summary>2、数据结构与算法篇</summary>
@@ -42,7 +41,9 @@
 </details>
 <details>
 <summary>5、浏览器篇——计划整理中</summary>
-   
+
+5.1 [浏览器组成部分](https://github.com/IamHuadong/blogs/issues/26)  
+5.1 [JS引擎执行原理——事件循环Event Loop](https://github.com/IamHuadong/blogs/issues/26)  
 5.1 [浏览器工作原理——重排、重绘](https://github.com/IamHuadong/blogs/issues/25)  
 5.2 [浏览器检测、兼容](https://github.com/IamHuadong/blogs/issues/25)  
 5.3 [浏览器缓存——强缓存和协商缓存](https://github.com/IamHuadong/blogs/issues/25)  
