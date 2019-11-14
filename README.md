@@ -51,6 +51,8 @@
 5. [Web数据存储——sessionStorage和localStorage](https://github.com/IamHuadong/blogs/issues/25)  
 5. [用户身份识别——cookie、session和token](https://github.com/IamHuadong/blogs/issues/25)  
 5. [Web安全防范——XSS与CSRF](https://github.com/IamHuadong/blogs/issues/25)  
+5. [用户身份识别——cookie、session和token](https://github.com/IamHuadong/blogs/issues/25)  
+5. [图片的懒加载和预加载](https://github.com/IamHuadong/blogs/issues/25)  
 </details>
 <details>
 <summary>6、前端框架篇--Vue</summary>
