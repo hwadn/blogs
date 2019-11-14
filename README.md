@@ -56,8 +56,8 @@
 . [Ajax原理、同源策略及跨域（iframe）](https://github.com/IamHuadong/blogs/issues/25)  
 . [服务端推送Comet和Web Sockets——长轮询和短轮询](https://github.com/IamHuadong/blogs/issues/25)  
 . [Web数据存储——sessionStorage和localStorage](https://github.com/IamHuadong/blogs/issues/25)  
-. [页面登录——MySQL+node.js](https://github.com/IamHuadong/blogs/issues/25)  
 . [用户身份识别——cookie、session和token](https://github.com/IamHuadong/blogs/issues/25)  
+. [页面登录——MySQL+node.js](https://github.com/IamHuadong/blogs/issues/25)  
 . [Web安全防范——XSS与CSRF](https://github.com/IamHuadong/blogs/issues/25)  
 . [前后端交互——restful](https://github.com/IamHuadong/blogs/issues/25)  
 </details>
