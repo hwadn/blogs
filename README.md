@@ -45,8 +45,8 @@
 5.1 [浏览器的组成](https://github.com/IamHuadong/blogs/issues/27)  
 5.2 [渲染引擎（浏览器内核）工作原理——重排、重绘](https://github.com/IamHuadong/blogs/issues/28)  
 5.3 [JS引擎执行原理——事件循环Event Loop](https://github.com/IamHuadong/blogs/issues/29)  
+5.4 [浏览器类型检测](https://github.com/IamHuadong/blogs/issues/30)  
 
-5.2 [浏览器检测、兼容](https://github.com/IamHuadong/blogs/issues/25)  
 5.3 [浏览器缓存——强缓存和协商缓存](https://github.com/IamHuadong/blogs/issues/25)  
 5.4 [浏览器内存泄漏](https://github.com/IamHuadong/blogs/issues/25)  
 5.5 [浏览器输入url过程](https://github.com/IamHuadong/blogs/issues/25)  
