@@ -42,7 +42,7 @@
 <details>
 <summary>5、浏览器篇——计划整理中</summary>
 
-5.1 [浏览器组成部分](https://github.com/IamHuadong/blogs/issues/26)  
+5.1 [浏览器的组成](https://github.com/IamHuadong/blogs/issues/27)  
 5.1 [JS引擎执行原理——事件循环Event Loop](https://github.com/IamHuadong/blogs/issues/26)  
 5.1 [浏览器工作原理——重排、重绘](https://github.com/IamHuadong/blogs/issues/25)  
 5.2 [浏览器检测、兼容](https://github.com/IamHuadong/blogs/issues/25)  
