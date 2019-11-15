@@ -40,7 +40,7 @@
 4.7 [DOM事件](https://github.com/IamHuadong/blogs/issues/26)  
 </details>
 <details>
-<summary>5、浏览器篇——计划整理中</summary>
+<summary>5、浏览器篇</summary>
 
 5.1 [浏览器的组成](https://github.com/IamHuadong/blogs/issues/27)  
 5.2 [渲染引擎（浏览器内核）工作原理——重排、重绘](https://github.com/IamHuadong/blogs/issues/28)  
