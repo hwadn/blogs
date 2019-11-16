@@ -46,13 +46,13 @@
 5.2 [渲染引擎——重排、重绘](https://github.com/IamHuadong/blogs/issues/28)  
 5.3 [JS引擎——事件循环Event Loop](https://github.com/IamHuadong/blogs/issues/29)  
 5.4 [数据存储——Cookie、sessionStorage和localStorage](https://github.com/IamHuadong/blogs/issues/30)  
-5.5 [浏览器缓存——强制缓存、协商缓存](https://github.com/IamHuadong/blogs/issues/25)  
-5.6 [浏览器内存——内存泄漏](https://github.com/IamHuadong/blogs/issues/25)  
-5.7 [浏览器输入url过程](https://github.com/IamHuadong/blogs/issues/25)  
+5.5 [浏览器内存——内存泄漏](https://github.com/IamHuadong/blogs/issues/25)  
 </details>
 <details>
 <summary>6、开发应用篇——网页通信——计划中</summary>
-   
+  
+5.7 [浏览器输入url过程](https://github.com/IamHuadong/blogs/issues/25)    
+5.5 [浏览器缓存——强制缓存、协商缓存](https://github.com/IamHuadong/blogs/issues/25)   
 . [图片的懒加载和预加载](https://github.com/IamHuadong/blogs/issues/25)  
 . [Ajax原理、同源策略及跨域（iframe）](https://github.com/IamHuadong/blogs/issues/25)  
 . [服务端推送Comet和Web Sockets——长轮询和短轮询](https://github.com/IamHuadong/blogs/issues/25)  
