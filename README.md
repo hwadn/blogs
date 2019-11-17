@@ -49,7 +49,7 @@
 5.5 [浏览器内存——内存泄漏](https://github.com/IamHuadong/blogs/issues/31)  
 </details>
 <details>
-<summary>6、网页通信篇——</summary>
+<summary>6、网页通信篇</summary>
   
 6.1 [浏览器输入url过程](https://github.com/IamHuadong/blogs/issues/32)    
  [浏览器缓存——强制缓存、协商缓存](https://github.com/IamHuadong/blogs/issues/25)   
