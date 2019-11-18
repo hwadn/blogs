@@ -51,7 +51,8 @@
 <details>
 <summary>6、网页通信篇</summary>
   
-6.1 [同源策略及跨域](https://github.com/IamHuadong/blogs/issues/32)  
+6.1 [Ajax原理](https://github.com/IamHuadong/blogs/issues/32)  
+6.2 [同源策略及跨域](https://github.com/IamHuadong/blogs/issues/33)  
 </details>
 <details>
 <summary>7、网站性能优化篇（计划）</summary>
