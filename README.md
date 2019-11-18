@@ -51,25 +51,16 @@
 <details>
 <summary>6、网页通信篇</summary>
   
-6.1 [浏览器输入url过程](https://github.com/IamHuadong/blogs/issues/32)    
- [浏览器缓存——强制缓存、协商缓存](https://github.com/IamHuadong/blogs/issues/25)   
-. [图片的懒加载和预加载](https://github.com/IamHuadong/blogs/issues/25)  
-. [Ajax原理、同源策略及跨域（iframe）](https://github.com/IamHuadong/blogs/issues/25)  
-. [服务端推送Comet和Web Sockets——长轮询和短轮询](https://github.com/IamHuadong/blogs/issues/25)  
-. [用户身份识别——cookie、session和token](https://github.com/IamHuadong/blogs/issues/25)  
-. [页面登录——MySQL+node.js](https://github.com/IamHuadong/blogs/issues/25)  
-. [Web安全防范——XSS与CSRF](https://github.com/IamHuadong/blogs/issues/25)  
-. [前后端交互——restful](https://github.com/IamHuadong/blogs/issues/25)  
+6.1 [同源策略及跨域](https://github.com/IamHuadong/blogs/issues/32)  
 </details>
 <details>
-<summary>7、前端框架篇--Vue——计划中</summary>
+<summary>7、网站性能优化篇（计划）</summary>
    
 </details>
 <details>
-<summary>8、网站性能优化篇——计划中</summary>
+<summary>8、前端框架篇--Vue（计划）</summary>
    
 </details>
-
 ## 参考文献
 1、 *《JavaScript高级程序设计》*  
 2、 *《你不知道的JavaScript》*  
