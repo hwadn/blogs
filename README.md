@@ -53,7 +53,8 @@
   
 6.1 [Ajax原理](https://github.com/IamHuadong/blogs/issues/32)  
 6.2 [同源策略及跨域](https://github.com/IamHuadong/blogs/issues/33)  
-6.3 [服务端推送Comet和Web Sockets——长轮询和短轮询](https://github.com/IamHuadong/blogs/issues/34)  
+6.3 [服务端推送Comet——长轮询和短轮询](https://github.com/IamHuadong/blogs/issues/34)  
+6.4 [SSE和Web Sockets](https://github.com/IamHuadong/blogs/issues/35)  
 </details>
 <details>
 <summary>7、网站性能优化篇（计划）</summary>
