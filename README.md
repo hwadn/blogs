@@ -55,6 +55,7 @@
 6.2 [同源策略及跨域](https://github.com/IamHuadong/blogs/issues/33)  
 6.3 [服务端推送Comet——长轮询、短轮询和http流](https://github.com/IamHuadong/blogs/issues/34)  
 6.4 [SSE和Web Sockets](https://github.com/IamHuadong/blogs/issues/35)  
+6.5 [用户身份识别——cookie、session和token](https://github.com/IamHuadong/blogs/issues/36)  
 </details>
 <details>
 <summary>7、网站性能优化篇（计划）</summary>
