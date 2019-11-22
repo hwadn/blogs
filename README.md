@@ -68,11 +68,11 @@
 </details>
 
 ## 参考文献
-1、 *《JavaScript高级程序设计》*  
-2、 *《你不知道的JavaScript》*  
-3、 *《学习JavaScript数据结构与算法》*   
-4、 *《计算机网络》*  
-5、 *《CSS权威指南》*  
-6、 *《高性能网站建设指南》*  
-7、 *《How Browsers Work: Behind the scenes of modern web browsers》、w3school、MDN等在线文档*  
-8、 *各种在线博客*
+1. *《JavaScript高级程序设计》* 第三版 Nicholas C.Zakas  
+2. *《你不知道的JavaScript》* KYLE SIMPSON  
+3. *《学习JavaScript数据结构与算法》* 第三版 Loiane Groner   
+4. *《计算机网络》* 第七版 谢希仁  
+5. *《CSS权威指南》* 第三版 Eric A.Meyer  
+6. *《高性能网站建设指南》* Steve Souders  
+7. *《How Browsers Work: Behind the scenes of modern web browsers》、w3school、MDN等在线文档*  
+8. *各种在线博客*
