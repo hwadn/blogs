@@ -73,5 +73,6 @@
 3、 *《学习JavaScript数据结构与算法》*   
 4、 *《计算机网络》*  
 5、 *《CSS权威指南》*  
-6、 *《How Browsers Work: Behind the scenes of modern web browsers》、w3school等官网文档*  
-7、 *各种在线博客*
+6、 *《高性能网站建设指南》*  
+7、 *《How Browsers Work: Behind the scenes of modern web browsers》、w3school、MDN等在线文档*  
+8、 *各种在线博客*
