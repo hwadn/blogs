@@ -60,7 +60,8 @@
 </details>
 <details>
 <summary>7、网站性能优化篇（计划）</summary>
-   
+  
+7.1 [规则1——减少HTTP请求](https://github.com/IamHuadong/blogs/issues/38)  
 </details>
 <details>
 <summary>8、前端框架篇--Vue（计划）</summary>
