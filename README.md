@@ -70,8 +70,7 @@
 7.2 优化网络连接  
 &emsp;&emsp;7.2.1 [使用内容发布网络CDN——缩短物理传输距离](https://github.com/IamHuadong/blogs/issues/39)  
 &emsp;&emsp;7.2.2 [减少DNS查找——缩短IP查找时间](https://github.com/IamHuadong/blogs/issues/44)  
-7.3 减小响应的大小  
-&emsp;&emsp;7.3.1 [压缩组件](https://github.com/IamHuadong/blogs/issues/45)  
+7.3 减小响应的大小——[压缩组件、精简代码、删除重复](https://github.com/IamHuadong/blogs/issues/45)   
 </details>
 <details>
 <summary>8、前端框架篇--Vue（计划）</summary>
