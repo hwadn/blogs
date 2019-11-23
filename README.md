@@ -64,9 +64,11 @@
 7.1 减少HTTP请求  
 &emsp;&emsp;7.1.1 [合并图片、内联图片、合并脚本和样式表](https://github.com/IamHuadong/blogs/issues/38)  
 &emsp;&emsp;7.1.2 [缓存组件——Last-Modified，Expires，Cache-Control和ETag](https://github.com/IamHuadong/blogs/issues/40)  
+&emsp;&emsp;7.1.3 [使用外部JS和CSS——为了能缓存](https://github.com/IamHuadong/blogs/issues/41)  
 7.2 减小资源大小
+
 7.2.1 [使用内容发布网络CDN——缩短响应时间](https://github.com/IamHuadong/blogs/issues/39)  
-7.4 [压缩组件并精简代码](https://github.com/IamHuadong/blogs/issues/41)  
+
 </details>
 <details>
 <summary>8、前端框架篇--Vue（计划）</summary>
