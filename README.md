@@ -64,7 +64,7 @@
 7.1 [减少HTTP请求——合并请求、内联图片](https://github.com/IamHuadong/blogs/issues/38)  
 7.2 [使用内容发布网络CDN——缩短响应时间](https://github.com/IamHuadong/blogs/issues/39)  
 7.3 [缓存组件——Last-Modified，Expires，Cache-Control和ETag](https://github.com/IamHuadong/blogs/issues/40)  
-7.4 [压缩组件](https://github.com/IamHuadong/blogs/issues/41)  
+7.4 [压缩组件并精简代码](https://github.com/IamHuadong/blogs/issues/41)  
 </details>
 <details>
 <summary>8、前端框架篇--Vue（计划）</summary>
