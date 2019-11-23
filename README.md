@@ -66,7 +66,8 @@
 &emsp;&emsp;7.1.2 [缓存组件——Last-Modified，Expires，Cache-Control和ETag](https://github.com/IamHuadong/blogs/issues/40)  
 &emsp;&emsp;7.1.3 [使用外部JS和CSS——为了能缓存](https://github.com/IamHuadong/blogs/issues/41)  
 &emsp;&emsp;7.1.4 [避免重定向](https://github.com/IamHuadong/blogs/issues/42)  
-7.2 减小资源大小
+&emsp;&emsp;7.1.5 [不使用@import、空的href、空的form表单method](https://github.com/IamHuadong/blogs/issues/43)  
+7.2 优化网络
 
 7.2.1 [使用内容发布网络CDN——缩短响应时间](https://github.com/IamHuadong/blogs/issues/39)  
 
