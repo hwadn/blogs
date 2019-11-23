@@ -65,6 +65,7 @@
 &emsp;&emsp;7.1.1 [合并图片、内联图片、合并脚本和样式表](https://github.com/IamHuadong/blogs/issues/38)  
 &emsp;&emsp;7.1.2 [缓存组件——Last-Modified，Expires，Cache-Control和ETag](https://github.com/IamHuadong/blogs/issues/40)  
 &emsp;&emsp;7.1.3 [使用外部JS和CSS——为了能缓存](https://github.com/IamHuadong/blogs/issues/41)  
+&emsp;&emsp;7.1.4 [避免重定向](https://github.com/IamHuadong/blogs/issues/42)  
 7.2 减小资源大小
 
 7.2.1 [使用内容发布网络CDN——缩短响应时间](https://github.com/IamHuadong/blogs/issues/39)  
