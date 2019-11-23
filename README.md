@@ -69,7 +69,7 @@
 &emsp;&emsp;7.1.5 [不使用@import、空的href、空的form表单method](https://github.com/IamHuadong/blogs/issues/43)  
 7.2 优化网络连接  
 &emsp;&emsp;7.2.1 [使用内容发布网络CDN——缩短物理传输距离](https://github.com/IamHuadong/blogs/issues/39)  
-
+&emsp;&emsp;7.2.2 [减少DNS查找——缩短IP查找时间](https://github.com/IamHuadong/blogs/issues/44)  
 </details>
 <details>
 <summary>8、前端框架篇--Vue（计划）</summary>
