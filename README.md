@@ -73,7 +73,7 @@
 7.3 减小响应的大小  
 &emsp;&emsp;[压缩组件、精简代码、删除重复](https://github.com/IamHuadong/blogs/issues/45)   
 7.4 优化加载顺序  
-&emsp;&emsp;7.4.1 [样式表放在顶部、脚本放在底部](https://github.com/IamHuadong/blogs/issues/46)  
+&emsp;&emsp;[样式表放在顶部、脚本放在底部、懒加载和预加载](https://github.com/IamHuadong/blogs/issues/46)  
 </details>
 <details>
 <summary>8、前端框架篇--Vue（计划）</summary>
