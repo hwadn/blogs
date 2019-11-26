@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>1.1对象</title>
+</head>
+<body>
+	
+<script>
+	//一、对象的创建——3种。以Father对象为例
+	//1、构造函数模式
+	function Father(name,age){
+		this.name = name;
+		this.age = age;
+		this.sayName = function(){
+			console.log(this.name);
+		}
+	}
+	//2、原型模式
+	function Father(name,age){}
+	Father.prototype = {
+		constructor: Father,
+		name: 'gg',
+		age: 13,
+		sayName: function(){
+			console.log(this.name);
+		}
+	};
+	//3、构造函数+原型
+	function Father(name,age){
+		this.name = name;
+		this.age = age;
+	}
+	Father.prototype.sayName = function(){
+		console.log(this.name);
+	}
+	//二、对象的继承——4种。以Child对象为例
+	//1、原型链继承
+	function Child(){}
+	Child.prototype = new Father();
+	2、借用构造函数
+	function Child(name,age,sex){
+		Father.call(this,name,age);
+		this.sex = sex;
+		this.saySex = function(){
+			console.log(this.sex);
+		}
+	}
+	//3、原型链+构造函数组合
+	function Child(name,age,sex){
+		Father.call(this,name,age);
+		this.sex = sex;
+	}
+	Child.prototype = new Father();
+	Child.prototype.constructor = Child;
+	Child.prototype.saySex = function(){
+		console.log(this.sex);
+	}
+
+	//4、寄生组合式继承
+	function Child(name,age,sex){
+		Father.call(this,name,age);
+		this.sex = sex;
+	}
+	// //寄生继承原型方法
+	function mid(){}
+	mid.prototype = Father.prototype;
+	Child.prototype = new mid();
+	mid.prototype.constructor = Child;
+	//或 
+	// var mid = Object.create(Father.prototype);
+	// mid.constructor = Child;
+	// Child.prototype = mid;
+	Child.prototype.saySex = function(){
+		console.log(this.sex);
+	}
+	//引申es6
+	class Child extends Father{
+		constructor(name,age,sex){
+			super(name,age);
+			this.sex = sex;
+		}
+		saySex(){
+			console.log(this.sex);
+		}
+	}
+</script>
+</body>
+</html>

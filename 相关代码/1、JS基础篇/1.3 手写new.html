@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>对象</title>
+</head>
+<body>
+	
+<script>
+	function Person(name,age){
+		this.name = name;
+		this.age = age;
+	}
+	Person.prototype.sayName = function(){
+		console.log(this.name);
+	}
+	//手写new
+	function myNew(Obj,name,age){
+		var res = {};//1、创建新对象
+		res.__proto__ = Obj.prototype;//2、新对象绑定原型方法
+		var pre = Obj.call(res,name,age);//执行构造函数
+		return (pre instanceof Object) ? pre : res;//若构造函数返回的不是对象就返回新对象
+	}
+	// var p = new Person('dd',12);
+	var p =myNew(Person,'dd',33);
+	console.log(p);
+	p.sayName();
+</script>
+</body>
+</html>

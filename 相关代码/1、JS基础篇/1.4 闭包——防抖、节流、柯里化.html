@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>title</title>
+</head>
+<body>
+	<button id="shake">防抖</button>
+	<button id="frequent">节流</button>
+<script>
+	function fn(){
+		console.log('biu');
+	}
+	//防抖
+	function preventShake(fn,time){
+		var t = null;
+		return function(){
+			clearTimeout(t);
+			t = setTimeout(fn,time);
+		}
+	}
+	//节流
+	function throttle(fn,time){
+		var t = null;
+		return function(){
+			if(!t){
+				t = setTimeout(()=>{
+					fn();
+					t = null;
+				},time);
+			}
+		}
+	}
+	//例子
+	var shake = document.querySelector("#shake");
+	var frequent = document.querySelector("#frequent");
+	shake.onclick = preventShake(fn,500);
+	frequent.onclick = throttle(fn,1000);
+	//柯里化
+function curry(fn){
+	var pre = Array.prototype.slice.call(arguments,1);
+	return function(){
+		var rest = Array.prototype.slice.call(arguments);
+		var args = pre.concat(rest);
+		return fn.apply(null,args);
+	};
+}
+
+	//bind()绑定函数
+function bind(fn,context){
+	var pre = Array.prototype.slice.call(arguments,2);
+	return function(){
+		var rest = Array.prototype.slice.call(arguments);
+		var args = pre.concat(rest);
+		fn.apply(context,args);
+	};
+}
+	//例子
+	function add(a,b,c){
+		return a + b + c;
+	}
+	var c = curry(add,1,2);
+	console.log(c(3));
+	//用bind()简写console.log()
+	var log=bind(console.log,null);
+	log(3);
+</script>
+</body>
+</html>

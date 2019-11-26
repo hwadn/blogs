@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		//手写简易Promise
+	function myPromise(fn){
+		this.status = 'pending';
+		this.value = undefined;
+		this.reason = undefined;
+		//异步情况，保存要等待执行的回调函数
+		this.onResolvedCallback = [];
+		this.onRejectedCallback = [];
+		var self = this;
+		function resolve(val){
+			if(self.status == 'pending'){
+				self.status = 'fulfilled';
+				self.value = val;
+				//状态改变，执行异步回调函数
+				self.onResolvedCallback.forEach(fn=>fn(val));
+			}
+		}
+		function reject(err){
+			if(self.status == 'pending'){
+				self.status = 'rejected';
+				self.reason = err;
+				//状态改变，执行异步回调函数
+				self.onRejectedCallback.forEach(fn=>fn(err));
+			}
+		}
+		try{
+			fn(resolve,reject);
+		}catch(e){
+			reject(e);
+		}
+	}
+	myPromise.prototype.then = function(success,fail){
+		if(this.status == 'fulfilled'){
+			success(this.value);
+		}
+		if(this.status == 'rejected'){
+			fail(this.reason);
+		}
+		//异步情况,保存异步函数，等待后续执行
+		if(this.status == "pending"){
+			var self = this;
+			this.onResolvedCallback.push(success);
+			this.onRejectedCallback.push(fail);
+		}
+	}
+	//手写Promise.all()
+	myPromise.all = function(pArray){
+		return new myPromise(function(resolve,reject){
+			var res = [];
+			pArray.forEach(p=>{
+				p.then(function(v){
+					res.push(v);
+					if(res.length == pArray.length)resolve(res);
+				},function(err){
+					reject(err);
+				});
+			});
+		});
+	}
+	//手写Promise.race
+	myPromise.race = function(pArray){
+		return new myPromise(function(resolve,reject){
+			pArray.forEach(p=>{
+				p.then(function(v){
+					resolve(v);
+				},function(err){
+					reject(err);
+				});
+			});
+		});
+	}
+	</script>
+</body>
+</html>

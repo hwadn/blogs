@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>对象</title>
+</head>
+<body>
+	
+<script>
+	var obj = {
+		a:1,
+		b:[2,3,{
+			c:4,
+			d:5
+		}]
+	}
+	//一、浅拷贝
+	var shallowClone = Object.assign({},obj);
+	//二、深拷贝
+	//1、JSON方法
+	var deepClone = JSON.parse(JSON.stringify(obj));
+	//2、递归
+	function deepCopy(obj){
+		//数组或对象
+		var res = Array.isArray(obj)?[]:{};
+		//遍历每一项
+		for(key in obj){
+			if(obj.hasOwnProperty(key)){
+				//若是对象就递归。排除null和function
+				if(obj[key] instanceof Object && obj[key]!=null && !(obj[key] instanceof Function)){
+					res[key] = deepCopy(obj[key]);
+				}else{
+					res[key] = obj[key];
+				}
+			}
+		}
+		return res;
+	}
+</script>
+</body>
+</html>
