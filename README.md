@@ -36,7 +36,7 @@
 4.3 [文本行、浮动和定位](https://github.com/IamHuadong/blogs/issues/22)  
 4.4 [display: none, visibility: hidden 和 opacity: 0](https://github.com/IamHuadong/blogs/issues/23)  
 4.5 [HTML5新特性](https://github.com/IamHuadong/blogs/issues/24)  
-4.6 [CSS新特性](https://github.com/IamHuadong/blogs/issues/25)  
+4.6 [CSS3新特性](https://github.com/IamHuadong/blogs/issues/25)  
 4.7 [DOM事件](https://github.com/IamHuadong/blogs/issues/26)  
 </details>
 <details>
