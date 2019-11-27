@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		var arr = [34,1,5,12,23,5,1];
+		//冒泡
+		function bubble(arr){
+			for(var i = 0; i < arr.length-1; i++){
+				var flag = false;
+				for(var j = 0; j < arr.length-1-i; j++){
+					if(arr[j] > arr[j+1]){
+						// 交换
+						var swap = arr[j];
+						arr[j] = arr[j+1];
+						arr[j+1] = swap;
+						flag = true;
+					}
+				}
+				if(flag == false)return;
+			}
+		}
+		//归并排序
+		function mergeSort(arr){
+			if(arr.length == 1)return arr;
+			var mid = Math.floor(arr.length/2);
+			var left = arr.slice(0,mid);
+			var right = arr.slice(mid);
+			return merge(mergeSort(left),mergeSort(right));
+		}
+		function merge(left,right){
+			var res = [];
+			var i = 0;
+			var j = 0;
+			while(i < left.length && j < right.length){
+				if(left[i] < right[j]){
+					res.push(left[i]);
+					i++;
+				}else{
+					res.push(right[j]);
+					j++;
+				}
+			}
+			while(i < left.length){
+				res.push(left[i]);
+				i++;
+			}
+			while(j < right.length){
+				res.push(right[j]);
+				j++;
+			}
+			return res;
+		}
+		//快排
+		function quick(arr,left,right){
+			if(arr.length == 1)return;
+			var mid = Math.floor(arr.length/2);
+			var base = arr[mid];
+			var i = left;
+			var j = right;
+			while(i <= j){
+				while(arr[i] < mid){
+					i++;
+				}
+				while(arr[j] > mid){
+					j--;
+				}
+				if(i <= j){
+					var swap = arr[i];
+					arr[i] = arr[j];
+					arr[j] = swap;
+					i++;
+					j--;
+				}
+			}
+			if(i-1 > left){
+				quick(arr,left,i-1);
+			}
+			if(i < right){
+				quick(arr,i,right);
+			}
+		}
+		quick(arr);
+		console.log(mergeSort(arr));
+	</script>
+</body>
+</html>

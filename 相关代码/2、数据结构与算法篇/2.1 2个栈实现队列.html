@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		var stack1 = []; // 进队列
+		var stack2 = []; // 出队列
+		function push(value){
+			stack1.push(value);
+		}
+		function shift(){
+			if(stack1.length == 0 && stack2.length == 0)return null;
+			if(stack2.length == 0){
+				while(stack1.length){
+					stack2.push(stack1.pop());
+				}
+			}
+			return stack2.pop();
+		}
+	</script>
+</body>
+</html>

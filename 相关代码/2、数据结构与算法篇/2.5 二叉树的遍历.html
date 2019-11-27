@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		//二叉搜索树
+		function BinarySearchTree(){
+			this.root = null;
+		}
+		BinarySearchTree.prototype.insert = function(value){
+			var node = new Node(value);
+			if(this.root == null){
+				this.root = node;
+			}else{
+				insertNode(this.root,value);
+			}
+			function Node(value){
+				this.value = value;
+				this.left = null;
+				this.right = null;
+			}
+			function insertNode(node,value){
+				//小的插在左边
+				if(node.value > value){
+					if(node.left == null){
+						node.left = new Node(value);
+					}else{
+						insertNode(node.left,value);
+					}
+				}else{
+					if(node.right == null){
+						node.right = new Node(value);
+					}else{
+						insertNode(node.right,value);
+					}
+				}
+			}
+		}
+		//前序遍历
+		function preOrder(node){
+			console.log(node.value);
+			if(node.left != null){
+				preOrder(node.left);
+			}
+			if(node.right != null){
+				preOrder(node.right);
+			}
+		}
+		//中序遍历
+		function midOrder(node){
+			if(node.left != null){
+				midOrder(node.left);
+			}
+			console.log(node.value);
+			if(node.right != null){
+				midOrder(node.right);
+			}
+		}
+		//后序遍历
+		function backOrder(node){
+			if(node.left != null){
+				backOrder(node.left);
+			}
+			if(node.right != null){
+				backOrder(node.right);
+			}
+			console.log(node.value);
+		}
+		//中序遍历——非递归法
+		function midOrderNorecursion(node){
+			var stack = [];
+			stack.push(node);//压入根节点
+			//压入左节点
+			while(node.left){
+				stack.push(node.left);
+				node = node.left;
+			}
+			//遍历左节点
+			while(stack.length){
+				var cur = stack.pop();
+				console.log(cur.value);
+				if(cur.right){
+					stack.push(cur.right);
+					cur = cur.right;
+					while(cur.left){
+						stack.push(cur.left);
+						cur = cur.left;
+					}
+				}
+			}
+		}
+		//深度优先遍历DFS——前序遍历非递归方法
+function deepFirstSearch(node){
+	var stack = [];
+	var cur = node;
+	while(cur){
+		console.log(cur.value);
+		stack.push(cur);
+		cur = cur.left;
+	}
+	while(stack.length){
+		cur = stack.pop();
+		if(cur.right){
+			cur = cur.right;
+			while(cur){
+				console.log(cur.value);
+				stack.push(cur);
+				cur = cur.left;
+			}
+		}
+	}
+	
+}
+		//广度优先遍历BFS
+function breadthFirstSearch(node){
+	var stack = [];
+	stack.push(node);
+	while(stack.length){
+		var cur = stack.shift();
+		console.log(cur.value);
+		if(cur.left){
+			stack.push(cur.left);
+		}
+		if(cur.right){
+			stack.push(cur.right);
+		}
+	}
+}
+		//例子
+		var tree = new BinarySearchTree();
+		tree.insert(11);
+		tree.insert(7);
+		tree.insert(15);
+		tree.insert(5);
+		tree.insert(3);
+		tree.insert(9);
+		tree.insert(8);
+		tree.insert(10);
+		tree.insert(13);
+		tree.insert(12);
+		tree.insert(14);
+		tree.insert(20);
+		tree.insert(18);
+		tree.insert(25);
+		breadthFirstSearch(tree.root);
+	</script>
+</body>
+</html>
