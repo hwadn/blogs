@@ -17,6 +17,7 @@
 2.3 排序算法——[冒泡排序](https://github.com/IamHuadong/blogs/issues/6) | [归并排序](https://github.com/IamHuadong/blogs/issues/11) | [快速排序](https://github.com/IamHuadong/blogs/issues/7)  
 2.4 [二叉树、堆的一些概念](https://github.com/IamHuadong/blogs/issues/12)  
 2.5 [二叉树类的创建及前、中、后续遍历](https://github.com/IamHuadong/blogs/issues/13) | [深度优先、广度优先](https://github.com/IamHuadong/blogs/issues/48)    
+2.6 [哈希表，哈希算法简介](https://github.com/IamHuadong/blogs/issues/49)  
 </details>
 <details>
 <summary>3、计算机网络篇</summary>
