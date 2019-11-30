@@ -79,8 +79,9 @@
 &emsp;&emsp;[避免CSS表达式、使用事件代理、防抖节流等](https://github.com/IamHuadong/blogs/issues/47)  
 </details>
 <details>
-<summary>8、前端框架篇--Vue（计划）</summary>
+<summary>8、前端框架篇--Vue</summary>
    
+ 8.1 [前端设计模型——MVC、MVVM](https://github.com/IamHuadong/blogs/issues/32)  
 </details>
 
 ## 参考文献
