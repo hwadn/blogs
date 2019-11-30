@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>测试</title>
+</head>
+<body>
+	<script>
+		//观察者模式：主体发布事件，观察者订阅事件来观察主体
+		//主体发布的事件
+		function handleMessage(event){
+			//event--事件对象，具有type,message属性
+			console.log('received:'+event.message);
+		}
+		//观察者
+		function EventTarget(){
+			//主体事件
+			this.handlers={};
+		}
+		//订阅事件
+		EventTarget.prototype.addHandler=function(type,handler){
+			//type--事件类型，相同类型可订阅多个主体事件
+			if(typeof this.handlers[type]=='undefined'){
+				this.handlers[type]=[];
+			}
+			this.handlers[type].push(handler);
+		}
+		//删除事件
+		EventTarget.prototype.remove=function(type,handler){
+			var flag=false;
+			if(this.handlers[type] instanceof Array){
+				for(var i in this.handlers[type]){
+					if(this.handlers[type][i]==handler){
+						flag=true;
+						this.handlers[type].splice(i,1);//找到事件，删除
+					}
+				}
+			}
+			console.log(flag?'已删除':'未找到此事件');
+		}
+		//触发事件，调用所有订阅者的主体函数
+		EventTarget.prototype.fire=function(event){
+			var handlers=this.handlers[event.type];
+			if(handlers instanceof Array){
+				for(var i in handlers){
+					handlers[i](event);
+				}
+			}
+		}
+		//例子
+		var et=new EventTarget();
+		et.addHandler('message',handleMessage);
+		function handleMessages2(event){
+		//event--事件对象，具有type,message属性
+		console.log('gg:'+event.message);
+		}
+		et.addHandler('message',handleMessages2)
+		var event2={type:'message',message:'word'};
+		et.fire(event2);
+		et.remove('message',handleMessage);
+		et.fire(event2);
+	</script>
+</body>
+</html>
