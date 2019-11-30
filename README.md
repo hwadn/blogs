@@ -7,7 +7,8 @@
 1.3 [new的过程——手写new](https://github.com/IamHuadong/blogs/issues/3)  
 1.4 [对闭包的理解（垃圾回收机制）与应用——防抖、节流、柯里化](https://github.com/IamHuadong/blogs/issues/8)   
 1.5 [js的异步回调、Promise及其手写](https://github.com/IamHuadong/blogs/issues/9)  
-1.6 [this的指向及其4种绑定规则 ](https://github.com/IamHuadong/blogs/issues/10)  
+1.6 [this的指向及其4种绑定规则](https://github.com/IamHuadong/blogs/issues/10)  
+1.7 [js设计模式之——观察者模式](https://github.com/IamHuadong/blogs/issues/50)  
 </details>
 <details>
 <summary>2、数据结构与算法篇</summary>
@@ -81,7 +82,7 @@
 <details>
 <summary>8、前端框架篇--Vue</summary>
    
- 8.1 [前端设计模型——MVC、MVVM](https://github.com/IamHuadong/blogs/issues/32)  
+ 8.1 [前端设计模型——MVC、MVVM、MVP](https://github.com/IamHuadong/blogs/issues/32)  
 </details>
 
 ## 参考文献
