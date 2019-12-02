@@ -82,7 +82,7 @@
 <details>
 <summary>8、前端框架篇--Vue</summary>
    
- 8.1 [前端设计模型——MVC、MVVM、MVP](https://github.com/IamHuadong/blogs/issues/32)  
+ 8.1 [前端设计模型——MVC、MVVM、MVP](https://github.com/IamHuadong/blogs/issues/50)  
 </details>
 
 ## 参考文献
