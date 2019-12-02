@@ -83,6 +83,7 @@
 <summary>8、前端框架篇--Vue</summary>
    
  8.1 [前端框架设计模式——MVC、MVP、MVVM](https://github.com/IamHuadong/blogs/issues/51)  
+ 8.2 [Vue生命周期、常用API、组件通信](https://github.com/IamHuadong/blogs/issues/52)  
 </details>
 
 ## 参考文献
