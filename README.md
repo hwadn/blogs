@@ -94,5 +94,5 @@
 4. *《计算机网络》* 第七版 谢希仁  
 5. *《CSS权威指南》* 第三版 Eric A.Meyer  
 6. *《高性能网站建设指南》* Steve Souders  
-7. *《How Browsers Work: Behind the scenes of modern web browsers》、w3school、MDN等在线文档*  
-8. *各种在线博客*
+7. *《How Browsers Work: Behind the scenes of modern web browsers》、w3school、MDN、Vue等在线文档*  
+8. *SegmentFault、CSDN、简书、博客园、牛客等在线博客*
