@@ -84,7 +84,7 @@
    
  8.1 [前端框架设计模式——MVC、MVP、MVVM](https://github.com/IamHuadong/blogs/issues/51)  
  8.2 [Vue生命周期、常用API、组件通信](https://github.com/IamHuadong/blogs/issues/52)  
- 8.3 [Vue-router、VueX](https://github.com/IamHuadong/blogs/issues/53)  
+ 8.3 [Vue-router、VueX——手写原生hash、history路由](https://github.com/IamHuadong/blogs/issues/53)  
 </details>
 
 ## 参考文献
