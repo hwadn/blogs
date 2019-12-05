@@ -86,6 +86,7 @@
 8.2 [Vue生命周期、常用API、组件通信](https://github.com/IamHuadong/blogs/issues/52)  
 8.3 [Vue-router——手写原生hash、history路由](https://github.com/IamHuadong/blogs/issues/53)  
 8.4 [Vuex](https://github.com/IamHuadong/blogs/issues/54)  
+8.5 [Vue原理——手写Vue（简易）](https://github.com/IamHuadong/blogs/issues/55)  
 </details>
 
 ## 参考文献
