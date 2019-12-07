@@ -86,7 +86,7 @@
 8.2 [Vue生命周期、常用API、组件通信](https://github.com/IamHuadong/blogs/issues/52)  
 8.3 [Vue-router——手写原生hash、history路由](https://github.com/IamHuadong/blogs/issues/53)  
 8.4 [Vuex](https://github.com/IamHuadong/blogs/issues/54)  
-8.5 Vue原理——手写Vue核心 
+8.5 Vue原理——手写Vue核心  
 &emsp;&emsp;8.5.1 [Vue工作机制——总体流程](https://github.com/IamHuadong/blogs/issues/55)  
 &emsp;&emsp;8.5.2 [手写Vue初始化——响应式、html编译、依赖收集](https://github.com/IamHuadong/blogs/issues/55)  
 </details>
