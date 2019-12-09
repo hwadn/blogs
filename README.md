@@ -89,6 +89,7 @@
 8.5 Vue原理——手写Vue核心  
 &emsp;&emsp;8.5.1 [Vue工作机制——总体流程](https://github.com/IamHuadong/blogs/issues/55)  
 &emsp;&emsp;8.5.2 [Vue首次渲染——手写响应式、html编译、依赖收集](https://github.com/IamHuadong/blogs/issues/56)  
+&emsp;&emsp;8.5.3 [Vue更新渲染——手写createElement，render，diff算法](https://github.com/IamHuadong/blogs/issues/57)  
 </details>
 
 ## 参考文献
