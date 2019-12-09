@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>MyVue22 test</title>
+</head>
+<body>
+	<div id="app">
+		<button @click='add'>+</button>
+		<span>{{count}}</span>
+		<button @click="minus">-</button>
+		<input type="text" m-model='count'>
+	</div>
+	<div id='frag'></div>
+	<script src='MyVue.js'></script>
+	<script src='compile.js'></script>
+	<script src='diff.js'></script>
+	<script>
+		//myVue
+		var vm = new MyVue({
+			el:'#app',
+			data:{
+				count:5
+			},
+			methods:{
+				add(){
+					this.data.count++;
+				},
+				minus(){
+					this.data.count--;
+				}
+			}
+		});
+		// 虚拟节点
+		var vnode = createElement('div', {class:'test'},[
+			createElement('div',{class:'ss'},['测试']),
+			createElement('input',{class:'cc',placeholder:'输入'}),
+			'1'
+			]);
+		var newNode = createElement('div', {class:'test'},[
+			createElement('div',{class:'ss'},['测试']),
+			createElement('input',{class:'cc',placeholder:'输入'}),
+			'3'
+			]);
+		console.log(vnode,newNode);
+		var patches = diff(vnode,newNode);
+		console.log(patches);
+		// 将虚拟节点转换成真实dom
+		let domfrag = render(vnode);
+		// 加入页面
+		var frag = document.querySelector('#frag');
+		frag.appendChild(domfrag);
+	</script>
+</body>
+</html>
