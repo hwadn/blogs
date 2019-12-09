@@ -88,7 +88,7 @@
 8.4 [Vuex](https://github.com/IamHuadong/blogs/issues/54)  
 8.5 Vue原理——手写Vue核心  
 &emsp;&emsp;8.5.1 [Vue工作机制——总体流程](https://github.com/IamHuadong/blogs/issues/55)  
-&emsp;&emsp;8.5.2 [手写Vue初始化——响应式、html编译、依赖收集](https://github.com/IamHuadong/blogs/issues/55)  
+&emsp;&emsp;8.5.2 [Vue首次渲染——手写响应式、html编译、依赖收集](https://github.com/IamHuadong/blogs/issues/55)  
 </details>
 
 ## 参考文献
