@@ -1,4 +1,4 @@
-# 非科班自学前端--学习笔记
+# 前端自学笔记
 <details>
 <summary>1、JS基础篇</summary>
   
