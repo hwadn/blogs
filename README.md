@@ -91,6 +91,12 @@
 &emsp;&emsp;8.5.2 [Vue首次渲染——手写响应式、html编译、依赖收集](https://github.com/IamHuadong/blogs/issues/56)  
 &emsp;&emsp;8.5.3 [Vue更新渲染——手写createElement，render，diff算法](https://github.com/IamHuadong/blogs/issues/57)  
 </details>
+<details>
+<summary>9、webpack和Node.js篇--Vue</summary>
+   
+9.1 [js的模块系统——ES6与ES5的模块系统](https://github.com/IamHuadong/blogs/issues/58)  
+9.2 [webpack原理——loader、plugin、bundle](https://github.com/IamHuadong/blogs/issues/59)  
+</details>
 
 ## 参考文献
 1. *《JavaScript高级程序设计》* 第三版 Nicholas C.Zakas  
