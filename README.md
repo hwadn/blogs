@@ -1,4 +1,4 @@
-# 前端自学笔记
+# 前端学习笔记
 <details>
 <summary>1、JS基础篇</summary>
   
