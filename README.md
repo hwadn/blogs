@@ -33,12 +33,12 @@
 <details>
 <summary>4、HTML(5)、CSS(3)篇</summary>
   
-4.1 [HTML元素类型+CSS样式关联方式](https://github.com/IamHuadong/blogs/issues/20)  
-4.2 [选择器及样式优先级](https://github.com/IamHuadong/blogs/issues/21)  
-4.3 [文本行、浮动和定位](https://github.com/IamHuadong/blogs/issues/22)  
-4.4 [display: none, visibility: hidden 和 opacity: 0](https://github.com/IamHuadong/blogs/issues/23)  
-4.5 [HTML5新特性](https://github.com/IamHuadong/blogs/issues/24)  
-4.6 [CSS3新特性](https://github.com/IamHuadong/blogs/issues/25)  
+4.1 [HTML(5)标签](https://github.com/IamHuadong/blogs/issues/20)  
+4.2 [CSS选择器、单位、文本](https://github.com/IamHuadong/blogs/issues/21)  
+4.3 [盒模型、元素分类](https://github.com/IamHuadong/blogs/issues/22)  
+4.4 [浮动与定位](https://github.com/IamHuadong/blogs/issues/23)  
+4.5 [CSS3新特性](https://github.com/IamHuadong/blogs/issues/24)  
+4.6 [应用](https://github.com/IamHuadong/blogs/issues/25)  
 ******换位子 [DOM事件](https://github.com/IamHuadong/blogs/issues/26)  
 </details>
 <details>
