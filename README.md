@@ -31,7 +31,7 @@
 3.6 [密码体制及应用——HTTPS](https://github.com/IamHuadong/blogs/issues/19)  
 </details>
 <details>
-<summary>4、HTML(5)、CSS(3)和DOM篇</summary>
+<summary>4、HTML(5)、CSS(3)篇</summary>
   
 4.1 [HTML元素类型+CSS样式关联方式](https://github.com/IamHuadong/blogs/issues/20)  
 4.2 [选择器及样式优先级](https://github.com/IamHuadong/blogs/issues/21)  
@@ -39,7 +39,7 @@
 4.4 [display: none, visibility: hidden 和 opacity: 0](https://github.com/IamHuadong/blogs/issues/23)  
 4.5 [HTML5新特性](https://github.com/IamHuadong/blogs/issues/24)  
 4.6 [CSS3新特性](https://github.com/IamHuadong/blogs/issues/25)  
-4.7 [DOM事件](https://github.com/IamHuadong/blogs/issues/26)  
+******换位子 [DOM事件](https://github.com/IamHuadong/blogs/issues/26)  
 </details>
 <details>
 <summary>5、浏览器篇</summary>
