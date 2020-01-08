@@ -1,4 +1,5 @@
 # 前端学习笔记
+重新整理到了博客园，地址https://www.cnblogs.com/chd1994/
 <details>
 <summary>1、JS基础篇</summary>
   
