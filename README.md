@@ -1,6 +1,6 @@
 # 前端学习笔记
 <details>
-<summary>1、JS基础篇</summary>
+<summary>1、JS基础篇（ok）</summary>
   
 1.1 [原型链、对象的创建和继承](https://github.com/IamHuadong/blogs/issues/1)  
 1.2 [对象的浅拷贝和深拷贝](https://github.com/IamHuadong/blogs/issues/2)  
@@ -21,7 +21,7 @@
 2.6 [集合（Set）、字典（Map）、哈希表（hash）简介](https://github.com/IamHuadong/blogs/issues/49)  
 </details>
 <details>
-<summary>3、计算机网络篇</summary>
+<summary>3、计算机网络篇（ok）</summary>
   
 3.1 [计算机网络的体系结构及其各层的作用](https://github.com/IamHuadong/blogs/issues/14)  
 3.2 [网络层要点](https://github.com/IamHuadong/blogs/issues/15)  
@@ -31,7 +31,7 @@
 3.6 [密码体制及应用——HTTPS](https://github.com/IamHuadong/blogs/issues/19)  
 </details>
 <details>
-<summary>4、HTML(5)、CSS(3)篇</summary>
+<summary>4、HTML(5)、CSS(3)篇（ok）</summary>
   
 4.1 [HTML(5)标签](https://github.com/IamHuadong/blogs/issues/20)  
 4.2 [CSS选择器、单位、文本](https://github.com/IamHuadong/blogs/issues/21)  
