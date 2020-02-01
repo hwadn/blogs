@@ -51,7 +51,7 @@
 5.5 [浏览器内存——内存泄漏](https://github.com/IamHuadong/blogs/issues/31)  
 </details>
 <details>
-<summary>6、网页通信篇</summary>
+<summary>6、网页通信篇（ok）</summary>
   
 6.1 [Ajax原理](https://github.com/IamHuadong/blogs/issues/32)  
 6.2 [同源策略及跨域](https://github.com/IamHuadong/blogs/issues/33)  
