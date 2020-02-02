@@ -61,7 +61,7 @@
 6.6 [Web安全防范——CSRF与XSS](https://github.com/IamHuadong/blogs/issues/37)  
 </details>
 <details>
-<summary>7、网站性能优化篇</summary>
+<summary>7、网站性能优化篇(ok)</summary>
   
 7.1 减少HTTP请求  
 &emsp;&emsp;7.1.1 [合并图片、内联图片、合并脚本和样式表](https://github.com/IamHuadong/blogs/issues/38)  
