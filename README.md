@@ -42,7 +42,7 @@
 ******换位子 [DOM事件](https://github.com/IamHuadong/blogs/issues/26)  
 </details>
 <details>
-<summary>5、浏览器篇</summary>
+<summary>5、浏览器篇（ok）</summary>
 
 5.1 [浏览器的组成](https://github.com/IamHuadong/blogs/issues/27)  
 5.2 [渲染引擎——重排、重绘](https://github.com/IamHuadong/blogs/issues/28)  
