@@ -8,7 +8,7 @@
 1.4 [对闭包的理解（垃圾回收机制）与应用——防抖、节流、柯里化](https://github.com/IamHuadong/blogs/issues/8)   
 1.5 [js的异步回调、Promise及其手写](https://github.com/IamHuadong/blogs/issues/9)  
 1.6 [this的指向及其4种绑定规则](https://github.com/IamHuadong/blogs/issues/10)  
-1.7 [js设计模式之——观察者模式](https://github.com/IamHuadong/blogs/issues/50)  
+1.7 [js设计模式之——观察者模式与发布订阅模式](https://github.com/IamHuadong/blogs/issues/50)  
 </details>
 <details>
 <summary>2、数据结构与算法篇</summary>
