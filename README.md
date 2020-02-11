@@ -11,7 +11,7 @@
 1.7 [js设计模式之——观察者模式与发布订阅模式](https://github.com/IamHuadong/blogs/issues/50)  
 </details>
 <details>
-<summary>2、数据结构与算法篇</summary>
+<summary>2、数据结构与算法篇（ok）</summary>
   
 2.1 [栈和队列——2个栈实现队列](https://github.com/IamHuadong/blogs/issues/4)  
 2.2 [链表——js实现链表类及其方法](https://github.com/IamHuadong/blogs/issues/5)  
