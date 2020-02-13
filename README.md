@@ -1,6 +1,6 @@
 # 前端学习笔记
 <details>
-<summary>1、JS基础篇（ok）</summary>
+<summary>1、JS基础篇</summary>
   
 1.1 [原型链、对象的创建和继承](https://github.com/IamHuadong/blogs/issues/1)  
 1.2 [对象的浅拷贝和深拷贝](https://github.com/IamHuadong/blogs/issues/2)  
@@ -11,7 +11,7 @@
 1.7 [js设计模式之——观察者模式与发布订阅模式](https://github.com/IamHuadong/blogs/issues/50)  
 </details>
 <details>
-<summary>2、数据结构与算法篇（ok）</summary>
+<summary>2、数据结构与算法篇</summary>
   
 2.1 [栈和队列——2个栈实现队列](https://github.com/IamHuadong/blogs/issues/4)  
 2.2 [链表——js实现链表类及其方法](https://github.com/IamHuadong/blogs/issues/5)  
@@ -21,7 +21,7 @@
 2.6 [集合（Set）、字典（Map）、哈希表（hash）简介](https://github.com/IamHuadong/blogs/issues/49)  
 </details>
 <details>
-<summary>3、计算机网络篇（ok）</summary>
+<summary>3、计算机网络篇</summary>
   
 3.1 [计算机网络的体系结构及其各层的作用](https://github.com/IamHuadong/blogs/issues/14)  
 3.2 [网络层要点](https://github.com/IamHuadong/blogs/issues/15)  
@@ -31,7 +31,7 @@
 3.6 [密码体制及应用——HTTPS](https://github.com/IamHuadong/blogs/issues/19)  
 </details>
 <details>
-<summary>4、HTML(5)、CSS(3)篇（ok）</summary>
+<summary>4、HTML(5)、CSS(3)篇</summary>
   
 4.1 [HTML(5)标签](https://github.com/IamHuadong/blogs/issues/20)  
 4.2 [CSS选择器、单位、文本](https://github.com/IamHuadong/blogs/issues/21)  
@@ -42,7 +42,7 @@
 ******换位子 [DOM事件](https://github.com/IamHuadong/blogs/issues/26)  
 </details>
 <details>
-<summary>5、浏览器篇（ok）</summary>
+<summary>5、浏览器篇</summary>
 
 5.1 [浏览器的组成](https://github.com/IamHuadong/blogs/issues/27)  
 5.2 [渲染引擎——重排、重绘](https://github.com/IamHuadong/blogs/issues/28)  
@@ -51,7 +51,7 @@
 5.5 [浏览器内存——内存泄漏](https://github.com/IamHuadong/blogs/issues/31)  
 </details>
 <details>
-<summary>6、网页通信篇（ok）</summary>
+<summary>6、网页通信篇</summary>
   
 6.1 [Ajax原理](https://github.com/IamHuadong/blogs/issues/32)  
 6.2 [同源策略及跨域](https://github.com/IamHuadong/blogs/issues/33)  
@@ -61,7 +61,7 @@
 6.6 [Web安全防范——CSRF与XSS](https://github.com/IamHuadong/blogs/issues/37)  
 </details>
 <details>
-<summary>7、网站性能优化篇(ok)</summary>
+<summary>7、网站性能优化篇</summary>
   
 7.1 减少HTTP请求  
 &emsp;&emsp;7.1.1 [合并图片、内联图片、合并脚本和样式表](https://github.com/IamHuadong/blogs/issues/38)  
@@ -92,7 +92,7 @@
 &emsp;&emsp;8.5.3 [Vue更新渲染——手写createElement，render，diff算法](https://github.com/IamHuadong/blogs/issues/57)  
 </details>
 <details>
-<summary>9、webpack和Node.js篇(ok)</summary>
+<summary>9、webpack和Node.js篇</summary>
    
 9.1 [js的模块系统——ES6与ES5的模块系统](https://github.com/IamHuadong/blogs/issues/58)  
 9.2 [webpack原理——loader、plugin、bundle](https://github.com/IamHuadong/blogs/issues/59)  
