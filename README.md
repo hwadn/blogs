@@ -78,6 +78,8 @@
 &emsp;&emsp;[样式表放在顶部、脚本放在底部、懒加载和预加载](https://github.com/IamHuadong/blogs/issues/46)  
 7.5 减少重排和重绘  
 &emsp;&emsp;[避免CSS表达式、使用事件代理、防抖节流等](https://github.com/IamHuadong/blogs/issues/47)  
+7.6 运算量大的代码分片执行
+&emsp;&emsp;[避免浏览器卡死 —— js代码分片执行](https://github.com/IamHuadong/blogs/issues/60) 
 </details>
 <details>
 <summary>8、前端框架篇--Vue</summary>
